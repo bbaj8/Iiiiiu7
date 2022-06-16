@@ -3,7 +3,7 @@
   "logo": "https://te.legra.ph/file/402c519808f75bd9b1803.jpg",
   "description": "سورس كوبرا مجاني لايخدعك احد في التنصيب.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/ERTWF/UWERT",
+  "repository": "https://github.com/",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -38,7 +38,7 @@
       "value": "QABNADLIB"
     },
     "SUPPORT_GROUP": {
-      "description": "معرف كروبك بدون @",
+      "description": "معرف  قناتك بدون @",
       "required": false,
       "value": "faqek"
     },
